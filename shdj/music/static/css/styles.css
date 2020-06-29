@@ -1,0 +1,113 @@
+/*часть под строкой*/
+#upbackground{
+	background: #280f74;
+}
+#text{
+	color: white;
+	text-align: center;
+	padding-top: 50px
+}
+#centerh1{
+	max-width: 800px;
+	margin: 0 auto;
+}
+h1{
+	font-family: Heebo, sans-serif;
+	font-size: 77px;
+}
+
+h4{
+	font-family: Heebo, sans-serif;
+	font-size: 17px;
+	line-height: 20px;
+}
+#centerh4{
+	max-width: 550px;
+	margin: 0 auto;
+	padding-top: 25px;
+	padding-bottom: 50px;
+}
+
+
+#infouptext{
+	width: 600px;
+	padding: 10px 0px 50px 0px;
+	margin: 0 auto;
+	font-size: 16px;
+}
+
+/*рабочая часть*/
+/*ссылка*/
+#link{
+	height: 40px;
+	width: 240px;
+	border-radius: 13px;
+	border: none;
+	padding-left: 8px;
+	outline: none;
+	font-size: 15px;
+}
+#linkdiv{
+	width: 240px;
+	margin: 0 auto;
+	padding-top: 15px;
+}
+/*время*/
+#time{
+	width: 115px;
+	height: 40px;
+	border-radius: 13px;
+	border: none;
+	padding: 0 0 0 0;
+	padding-left: 8px;
+	outline: none;
+	font-size: 15px;
+}
+.timeto{
+	margin-left: 7px; 
+}
+#timediv{
+	width: 242px;
+	margin: 0 auto;
+	padding-top: 15px;
+}
+#timecol{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+#linkcol{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+/*кнопка*/
+#button{
+	height: 40px;
+	width: 240px;
+	border-radius: 13px;
+	border: none;
+	background: #fa2356;
+	outline: none;
+	color: white;
+}
+#buttondiv{
+	width: 240px;
+	margin: 0 auto;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+#table{
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	width: 300px;
+	height: 100px;
+	background-color: rgba(255, 1, 1, 0.8);
+	border: 3px solid rgba(255, 105, 105, 0.8);
+	color: white;
+}
+#author_music{
+	text-align: center;
+}
+#author_music_div{
+	margin-top: 30px;
+}
